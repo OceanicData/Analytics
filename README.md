@@ -1,2 +1,2 @@
-# Crime-report-visualization
-Hi..It's a random crime report sample with more than 1 million rows and 15+ columns. This data have been cleaning with help of python (PANDAS &amp; NUMPY) &amp; visualized by power bi
+# Data visualized & analyzed files
+Respected viewers all the files or project that are uploaded here are mainly prepared with the help of python, excel & power bi. Mainly I prefer to use python to clean the data with the help of PANDAS & NUMPY & for transformation, Modelling & visualization power bi. All this project are frequently uploaded in pdf files with special water mark. But, results short screen will be uploaded separatly for the convenience of viewer.

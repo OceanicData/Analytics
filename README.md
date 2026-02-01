@@ -1,4 +1,10 @@
 # Data visualized & analyzed files
+Personal Information
+                    Name : Mutiullah Khan.
+                    Qualification : Master in Physics(Great command mathematical calculus and graph reading and statistics)
+                                   also qualified ACCA frist 5 papers also fimilar with business basic terminologies.
+                    Goal : To built a built career in data analytics.               
+                      
 Respected viewer's this page representation is all about the analytics & visualization.
 Whole Data is analyzed with the help of different software to maintains the efficiency & accuracy of results.
 Fimiliar with SQL to import data from server.

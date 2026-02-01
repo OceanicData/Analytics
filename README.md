@@ -1,2 +1,6 @@
 # Data visualized & analyzed files
-Respected viewers all the files or project that are uploaded here are mainly prepared with the help of python, excel & power bi. Mainly I prefer to use python to clean the data with the help of PANDAS & NUMPY & for transformation, Modelling & visualization power bi. All this project are frequently uploaded in pdf files with special water mark. But, results short screen will be uploaded separatly for the convenience of viewer.
+Respected viewer's this page representation is all about the analytics & visualization.
+Whole Data is analyzed with the help of different software to maintains the efficiency & accuracy of results.
+Fimiliar with SQL to import data from server.
+The Software majorly use are python & microsoft power BI to manage complex data, to clean the irregular data with the help of python(pandas and numpy), for complex calculation python(numpy), expanding the source of data import, causing relation among data different data tables, applying basic as well as complex calculation with the help of power BI(DAX) according to requirements.
+The majority the whole project is represent in pdf. Pdf contains ,before and after code applied, excel work if needed, power BI work And the final result shortscreen is also viewed separately.  

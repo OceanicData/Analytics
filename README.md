@@ -1,5 +1,5 @@
 # Data visualized & analyzed files
-Personal Information
+Personal Information.<br>
                     Name : Mutiullah Khan.<br>
                     Qualification : Master in Physics(Great command mathematical calculus and graph reading and statistics)
                                    also qualified ACCA frist 5 papers also fimilar with business basic terminologies.<br>
